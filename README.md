@@ -1,6 +1,6 @@
 # Shaking
 
-#### 项目链接
+## 项目链接
 
 1.PPT: 链接：https://pan.baidu.com/s/1ftNIi5Q_Uf6SUqJNkgILxg 
 提取码：gdvf
@@ -8,7 +8,9 @@
 2.Code: 链接：https://pan.baidu.com/s/1JkssHnutVY10rgSXJRmJZw 
 提取码：r3v0
 
-#### Team contribution
+3.视频：链接： https://b23.tv/RSP9h3P
+
+##  Team contribution
 
 1.许超然  Xu Chaoran  3200105650
 
@@ -26,7 +28,7 @@ The writing of the recordtime class, the writing of the basic framework of the p
 
 Background and User Research, Wizard of OZ,  UI Design and Production Video Production.
 
-#### Software Description
+## Software Description
 
 the content below is the operating procedure of Shaking software.(The glasses must be connected to the mobile phone through the bluetooth to enable the use of subsequent software)
 
