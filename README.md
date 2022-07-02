@@ -14,13 +14,19 @@
 
 1.许超然  Xu Chaoran  3200105650
 
+**贡献：100%**
+
 collecting data for processing, the main code implementation of the method of neck activities and application test.
 
 2.朱思宇 Zhu Siyu  3190102779
 
+**贡献：100%**
+
 figure out how to use MediaPlayer to play music;UI implementation and handle button/EditView logic.
 
 3.尹培林 Yin Peilin 3200105215
+
+**贡献：100%**
 
 The writing of the recordtime class, the writing of the basic framework of the program, and the improvement of the code.
 
